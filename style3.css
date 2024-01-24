@@ -1,0 +1,232 @@
+* {
+    padding: none;
+    margin: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+body {
+    height: 470px;
+    width: 400px;
+}
+.main {
+    color: black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.navbar {
+    height: 30px;
+    width: 380px;
+    border-radius: 100px;
+    padding: 10px 10px 35px 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    animation: color 5s infinite;
+}
+
+.images{
+    height: 55px;
+    width: 55px;
+    position: relative;
+}
+.back {
+    color: #0d0c11;
+    font-weight: bolder;
+    margin-right: 32px;
+    text-decoration: none;
+    font-size: 28px;
+}
+.lko{
+    margin: 0px 15px 0px 15px;
+    font-size: 1.5rem;
+}
+
+span {
+
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #020302;
+}
+body {
+    background: linear-gradient(-45deg, 
+        #ffe57f,   /* Light Yellow */
+        #ff9d97,   /* Light Red */
+        #fc90e6,   /* Light Purple */
+        #9cc2e7,   /* Light Blue */
+        #a6e3aa);  /* Light Green */
+
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.container {
+    height: 450px;
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 25px;
+    border-radius: 20px;
+    padding: 10px 10px 10px;
+    text-align: center;
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: #33CC36;
+    border: 5px solid black;
+}
+
+img {
+    border-radius: 100px;
+    height: 25px;
+    width: 25px;
+}
+
+.cholder {
+    padding: 15px 25px 10px 25px;
+}
+
+.vs {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 25px;
+    padding-top: 10px;
+}
+
+.netscore {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 5px;
+
+}
+
+.score1 {
+    font-size: 2px;
+}
+
+.date {
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.matchtype {
+    margin-left: auto;
+    margin-right: 15px;
+    font-size: 15px;
+}
+
+.status {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.venue {
+    text-align: center;
+    font-size: 15px;
+}
+
+.fullname {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+.green {
+    display: flex;
+    width: 100%;
+    background-color: #000000;
+    border-radius: 100px;
+    color: #33CCCC;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.kk {
+    font-size: 20px;
+}
+
+/* @media(max-width :500px){
+    div{
+        font-size: 15px;
+    }
+} */
+#matches {
+    font-size: 25px;
+}
+
+.T1 {
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.T2 {
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+.score1 {
+    font-size: 1.5rem;
+}
+
+.score2 {
+    font-size: 1.5rem;
+}
+
+.netscore {
+    margin-right: 24px;
+}
+
+.refer {
+    background-color: transparent;
+    margin-left: 14px;
+    margin-top: 5px;
+    border-radius: 10px;
+    text-align: center;
+    height: 40px;
+}
+
+.matchtype {
+    font-size: 25px;
+    text-align: center;
+}
+.cg{
+    text-align: center;
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: #33CC36;
+}
+.animations{
+    display: flex;
+
+}
+.Newclass{
+    display: none;
+}
+.netscore{
+    font-size: 1.2rem;
+    margin-top: 5px;
+    font-style: underline;
+
+}
+.wearelive{
+    padding-top: 15px;
+}

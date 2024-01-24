@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "My extension",
+  "version": "1.0.0",
+  "description": "My extension",
+  "author": "Vaibhav",
+  "icons": {
+    "16": "download.png",
+    "48": "download.png",
+    "128": "download.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "cricketXtra"
+  },
+  "permissions": [
+    "alarms",
+    "storage",
+    "identity",
+    "identity.email"],
+  "background":
+  {
+    "service_worker":"background.js"
+}
+}

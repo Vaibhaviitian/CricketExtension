@@ -1,0 +1,1112 @@
+{
+    "apikey": "c02982a4-365b-4fa4-9f6b-e4c1b575515f",
+    "data": [
+        {
+            "id": "67656e80-4a96-42f4-9829-e6bea3cdd792",
+            "name": "Eastern Storm vs Limpopo, 14th Match",
+            "matchType": "test",
+            "status": "Day 2: Stumps - Limpopo lead by 85 runs",
+            "venue": "Willowmoore Park, Benoni",
+            "date": "2024-01-11",
+            "dateTimeGMT": "2024-01-11T08:00:00",
+            "teams": [
+                "Eastern Storm",
+                "Limpopo"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Eastern Storm",
+                    "shortname": "ESTORM",
+                    "img": "https://g.cricapi.com/iapi/22-637992689531725146.webp?w=48"
+                },
+                {
+                    "name": "Limpopo",
+                    "shortname": "LIMPO",
+                    "img": "https://g.cricapi.com/iapi/42-637991993542281273.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 157,
+                    "w": 10,
+                    "o": 37.2,
+                    "inning": "Limpopo Inning 1"
+                },
+                {
+                    "r": 124,
+                    "w": 10,
+                    "o": 34.2,
+                    "inning": "Eastern Storm Inning 1"
+                },
+                {
+                    "r": 52,
+                    "w": 3,
+                    "o": 23.5,
+                    "inning": "Limpopo Inning 2"
+                }
+            ],
+            "series_id": "e3bd2125-82e2-4841-a097-c681d46c7a60",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "d5199d12-4edc-44b3-83f9-f671ed8702ca",
+            "name": "Paarl Royals vs Pretoria Capitals, 3rd Match",
+            "matchType": "t20",
+            "status": "Pretoria Capitals opt to bowl",
+            "venue": "Boland Park, Paarl",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T15:30:00",
+            "teams": [
+                "Paarl Royals",
+                "Pretoria Capitals"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Paarl Royals",
+                    "shortname": "PR",
+                    "img": "https://g.cricapi.com/iapi/4088-638110226485599533.webp?w=48"
+                },
+                {
+                    "name": "Pretoria Capitals",
+                    "shortname": "PC",
+                    "img": "https://g.cricapi.com/iapi/4147-638109570840598004.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 137,
+                    "w": 5,
+                    "o": 17.5,
+                    "inning": "Paarl Royals Inning 1"
+                }
+            ],
+            "series_id": "5f09d66b-284c-4a0e-994f-5a8d6c0212f0",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "3dfe75f8-9709-4588-a10f-daca9e9ce091",
+            "name": "Durban Super Giants vs MI Cape Town, 2nd Match",
+            "matchType": "t20",
+            "status": "Durban Super Giants won by 11 runs (DLS Method)",
+            "venue": "Kingsmead, Durban",
+            "date": "2024-01-11",
+            "dateTimeGMT": "2024-01-11T15:30:00",
+            "teams": [
+                "Durban Super Giants",
+                "MI Cape Town"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Durban Super Giants",
+                    "shortname": "DSG",
+                    "img": "https://g.cricapi.com/iapi/4125-638110226211044703.webp?w=48"
+                },
+                {
+                    "name": "MI Cape Town",
+                    "shortname": "MICT",
+                    "img": "https://g.cricapi.com/iapi/4087-638110226686674934.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 207,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "MI Cape Town Inning 1"
+                },
+                {
+                    "r": 177,
+                    "w": 6,
+                    "o": 16.3,
+                    "inning": "Durban Super Giants Inning 1"
+                }
+            ],
+            "series_id": "5f09d66b-284c-4a0e-994f-5a8d6c0212f0",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "858ba3e6-36ce-464c-9419-883c09882f9b",
+            "name": "Cricket Australia XI vs West Indies, 3-day Warm-up Match",
+            "status": "Match drawn",
+            "venue": "Karen Rolton Oval, Adelaide, South Australia",
+            "date": "2024-01-09",
+            "dateTimeGMT": "2024-01-09T23:30:00",
+            "teams": [
+                "Cricket Australia XI",
+                "West Indies"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Cricket Australia XI",
+                    "shortname": "CA XI",
+                    "img": "https://g.cricapi.com/iapi/3504-638153738854373747.png?w=48"
+                },
+                {
+                    "name": "West Indies",
+                    "shortname": "WI",
+                    "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 251,
+                    "w": 8,
+                    "o": 90,
+                    "inning": "West Indies Inning 1"
+                },
+                {
+                    "r": 174,
+                    "w": 10,
+                    "o": 54.5,
+                    "inning": "Cricket Australia XI Inning 1"
+                },
+                {
+                    "r": 315,
+                    "w": 5,
+                    "o": 80,
+                    "inning": "West Indies Inning 2"
+                },
+                {
+                    "r": 149,
+                    "w": 5,
+                    "o": 39,
+                    "inning": "Cricket Australia XI Inning 2"
+                }
+            ],
+            "series_id": "9f0352a6-8e6e-4f01-a226-520d60ee2142",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "3d78679f-4bbd-4776-b593-8be46e94f7bd",
+            "name": "India A vs England Lions, 2-day Practice Match",
+            "matchType": "test",
+            "status": "Day 1: Stumps - India A trail by 110 runs",
+            "venue": "Narendra Modi Stadium B Ground, Ahmedabad",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:30:00",
+            "teams": [
+                "India A",
+                "England Lions"
+            ],
+            "teamInfo": [
+                {
+                    "name": "England Lions",
+                    "shortname": "ENGL",
+                    "img": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=48"
+                },
+                {
+                    "name": "India A",
+                    "shortname": "INA",
+                    "img": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 233,
+                    "w": 10,
+                    "o": 51.1,
+                    "inning": "England Lions Inning 1"
+                },
+                {
+                    "r": 123,
+                    "w": 1,
+                    "o": 26,
+                    "inning": "India A Inning 1"
+                }
+            ],
+            "series_id": "68a46159-d1b8-410c-a604-b62e0d44e43e",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "7ee13bdc-4196-454e-9c59-9bf44e9b22c8",
+            "name": "Sri Lanka vs Zimbabwe, 3rd ODI",
+            "matchType": "odi",
+            "status": "Sri Lanka won by 8 wkts (27 Overs Match due to rain)",
+            "venue": "R.Premadasa Stadium, Colombo",
+            "date": "2024-01-11",
+            "dateTimeGMT": "2024-01-11T09:00:00",
+            "teams": [
+                "Sri Lanka",
+                "Zimbabwe"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Sri Lanka",
+                    "shortname": "SL",
+                    "img": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48"
+                },
+                {
+                    "name": "Zimbabwe",
+                    "shortname": "ZIM",
+                    "img": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 96,
+                    "w": 10,
+                    "o": 22.5,
+                    "inning": "Zimbabwe Inning 1"
+                },
+                {
+                    "r": 97,
+                    "w": 2,
+                    "o": 16.4,
+                    "inning": "Sri Lanka Inning 1"
+                }
+            ],
+            "series_id": "6c6381bf-991c-4bc1-b840-321b62ce0da8",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "39a1fe3a-4705-4448-a519-96eb6a435d4e",
+            "name": "Limpopo vs South Western Districts, 12th Match",
+            "matchType": "test",
+            "status": "scores level",
+            "venue": "Polokwane Cricket Club, Polokwane",
+            "date": "2023-12-20",
+            "dateTimeGMT": "2023-12-20T08:00:00",
+            "teams": [
+                "Limpopo",
+                "South Western Districts"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Limpopo",
+                    "shortname": "LIMPO",
+                    "img": "https://g.cricapi.com/iapi/42-637991993542281273.webp?w=48"
+                },
+                {
+                    "name": "South Western Districts",
+                    "shortname": "SWD",
+                    "img": "https://g.cricapi.com/iapi/85-637993498736049006.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 475,
+                    "w": 10,
+                    "o": 124.4,
+                    "inning": "Limpopo Inning 1"
+                },
+                {
+                    "r": 369,
+                    "w": 10,
+                    "o": 106,
+                    "inning": "South Western Districts Inning 1"
+                },
+                {
+                    "r": 224,
+                    "w": 7,
+                    "o": 58,
+                    "inning": "Limpopo Inning 2"
+                },
+                {
+                    "r": 330,
+                    "w": 6,
+                    "o": 81,
+                    "inning": "South Western Districts Inning 2"
+                }
+            ],
+            "series_id": "e3bd2125-82e2-4841-a097-c681d46c7a60",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "2b46e83a-8126-49d6-9052-12b9fdb502fa",
+            "name": "Northern Knights vs Auckland, 21st Match",
+            "matchType": "t20",
+            "status": "Auckland won by 8 wkts",
+            "venue": "Bay Oval, Mount Maunganui",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T03:00:00",
+            "teams": [
+                "Northern Knights",
+                "Auckland"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Auckland",
+                    "shortname": "AKL",
+                    "img": "https://g.cricapi.com/iapi/5-637993557414710285.webp?w=48"
+                },
+                {
+                    "name": "Northern Knights",
+                    "shortname": "NK",
+                    "img": "https://g.cricapi.com/iapi/62-637992668006396208.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 121,
+                    "w": 10,
+                    "o": 19,
+                    "inning": "Northern Knights Inning 1"
+                },
+                {
+                    "r": 127,
+                    "w": 2,
+                    "o": 16.3,
+                    "inning": "Auckland Inning 1"
+                }
+            ],
+            "series_id": "a86f9506-c51c-4aeb-8274-b2a8103d8e1c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "65c5185e-70c9-4f8e-a373-831c69e908bd",
+            "name": "Canterbury vs Wellington, 20th Match",
+            "matchType": "t20",
+            "status": "Wellington won by 21 runs",
+            "venue": "Hagley Oval, Christchurch",
+            "date": "2024-01-11",
+            "dateTimeGMT": "2024-01-11T01:00:00",
+            "teams": [
+                "Canterbury",
+                "Wellington"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Canterbury",
+                    "shortname": "CAN",
+                    "img": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=48"
+                },
+                {
+                    "name": "Wellington",
+                    "shortname": "WEL",
+                    "img": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 184,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Wellington Inning 1"
+                },
+                {
+                    "r": 163,
+                    "w": 7,
+                    "o": 20,
+                    "inning": "Canterbury Inning 1"
+                }
+            ],
+            "series_id": "a86f9506-c51c-4aeb-8274-b2a8103d8e1c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "a1dc9833-2222-4796-87b2-94020d731490",
+            "name": "Sydney Sixers vs Sydney Thunder, 34th Match",
+            "matchType": "t20",
+            "status": "Sydney Sixers won by 19 runs",
+            "venue": "Sydney Cricket Ground, Sydney",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T08:15:00",
+            "teams": [
+                "Sydney Sixers",
+                "Sydney Thunder"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Sydney Sixers",
+                    "shortname": "SYS",
+                    "img": "https://g.cricapi.com/iapi/282-637935045702671726.png?w=48"
+                },
+                {
+                    "name": "Sydney Thunder",
+                    "shortname": "SYT",
+                    "img": "https://g.cricapi.com/iapi/283-637935045529865505.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 151,
+                    "w": 7,
+                    "o": 20,
+                    "inning": "Sydney Sixers Inning 1"
+                },
+                {
+                    "r": 132,
+                    "w": 10,
+                    "o": 19.5,
+                    "inning": "Sydney Thunder Inning 1"
+                }
+            ],
+            "series_id": "725a99ae-93a5-48ea-99a7-9ad10b860481",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "f15f7bb0-d8e8-44da-a5f8-b5ef5e835344",
+            "name": "Hobart Hurricanes vs Adelaide Strikers, 33rd Match",
+            "matchType": "t20",
+            "status": "Adelaide Strikers won by 8 wkts",
+            "venue": "Bellerive Oval, Hobart",
+            "date": "2024-01-11",
+            "dateTimeGMT": "2024-01-11T08:15:00",
+            "teams": [
+                "Hobart Hurricanes",
+                "Adelaide Strikers"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Adelaide Strikers",
+                    "shortname": "ADS",
+                    "img": "https://g.cricapi.com/iapi/105-637959255724791425.webp?w=48"
+                },
+                {
+                    "name": "Hobart Hurricanes",
+                    "shortname": "HBH",
+                    "img": "https://g.cricapi.com/iapi/178-637945148636541193.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 167,
+                    "w": 6,
+                    "o": 20,
+                    "inning": "Hobart Hurricanes Inning 1"
+                },
+                {
+                    "r": 169,
+                    "w": 2,
+                    "o": 15.5,
+                    "inning": "Adelaide Strikers Inning 1"
+                }
+            ],
+            "series_id": "725a99ae-93a5-48ea-99a7-9ad10b860481",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "829743f1-636a-4589-a424-ded05dd93cf9",
+            "name": "Melbourne Renegades vs Perth Scorchers, 4th Match",
+            "matchType": "t20",
+            "status": "No result - due to pitch conditions",
+            "venue": "Simonds Stadium, Geelong",
+            "date": "2023-12-10",
+            "dateTimeGMT": "2023-12-10T08:15:00",
+            "teams": [
+                "Melbourne Renegades",
+                "Perth Scorchers"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Melbourne Renegades",
+                    "shortname": "MLR",
+                    "img": "https://g.cricapi.com/iapi/221-637940203193119640.webp?w=48"
+                },
+                {
+                    "name": "Perth Scorchers",
+                    "shortname": "PRS",
+                    "img": "https://g.cricapi.com/iapi/242-637939328672409529.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 30,
+                    "w": 2,
+                    "o": 6.5,
+                    "inning": "Perth Scorchers Inning 1"
+                }
+            ],
+            "series_id": "725a99ae-93a5-48ea-99a7-9ad10b860481",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "3f1655f9-9cf9-4130-b2b2-f1b2fa54b04a",
+            "name": "Goa vs Chandigarh, Elite Group C",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Goa opt to bat",
+            "venue": "Goa Cricket Association Academy Ground, Porvorim",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Goa",
+                "Chandigarh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Chandigarh",
+                    "shortname": "CDG",
+                    "img": "https://g.cricapi.com/iapi/17-637897790786615930.png?w=48"
+                },
+                {
+                    "name": "Goa",
+                    "shortname": "GOA",
+                    "img": "https://g.cricapi.com/iapi/26-637897792202678375.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 267,
+                    "w": 3,
+                    "o": 90,
+                    "inning": "Goa Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "61c41810-a489-4673-b866-c5faa4563e3e",
+            "name": "Punjab vs Railways, Elite Group C",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Punjab opt to bowl",
+            "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Punjab",
+                "Railways"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Punjab",
+                    "shortname": "PUN",
+                    "img": "https://g.cricapi.com/iapi/72-637897801965344275.png?w=48"
+                },
+                {
+                    "name": "Railways",
+                    "shortname": "RLYS",
+                    "img": "https://g.cricapi.com/iapi/75-637897802979231020.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 118,
+                    "w": 3,
+                    "o": 34,
+                    "inning": "Railways Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "e7f0990f-621f-40c5-92ca-69d186f2ae66",
+            "name": "Saurashtra vs Haryana, Elite Group A",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Haryana trail by 23 runs",
+            "venue": "Saurashtra Cricket Association Stadium C, Rajkot",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Saurashtra",
+                "Haryana"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Haryana",
+                    "shortname": "HAR",
+                    "img": "https://g.cricapi.com/iapi/28-637897793655542496.png?w=48"
+                },
+                {
+                    "name": "Saurashtra",
+                    "shortname": "SAUR",
+                    "img": "https://g.cricapi.com/iapi/78-637897803602821716.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 145,
+                    "w": 10,
+                    "o": 55,
+                    "inning": "Saurashtra Inning 1"
+                },
+                {
+                    "r": 122,
+                    "w": 1,
+                    "o": 33,
+                    "inning": "Haryana Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "301ce2d6-3dee-423d-9f91-cb742f36f334",
+            "name": "Gujarat vs Karnataka, Elite Group C",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Karnataka opt to bowl",
+            "venue": "Narendra Modi Stadium, Ahmedabad",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Gujarat",
+                "Karnataka"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Gujarat",
+                    "shortname": "GUJ",
+                    "img": "https://g.cricapi.com/iapi/27-637897792592204662.png?w=48"
+                },
+                {
+                    "name": "Karnataka",
+                    "shortname": "KAR",
+                    "img": "https://g.cricapi.com/iapi/38-637897796420763611.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 264,
+                    "w": 10,
+                    "o": 88,
+                    "inning": "Gujarat Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "5fe8f2e4-ba34-4aa8-96bf-df025f466188",
+            "name": "Bihar vs Chhattisgarh, Elite Group B",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Chhattisgarh trail by 18 runs",
+            "venue": "Moin-ul-Haq Stadium, Patna",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Bihar",
+                "Chhattisgarh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bihar",
+                    "shortname": "BIH",
+                    "img": "https://g.cricapi.com/iapi/13-637897789593616439.png?w=48"
+                },
+                {
+                    "name": "Chhattisgarh",
+                    "shortname": "CG",
+                    "img": "https://g.cricapi.com/iapi/18-637897790441171438.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 108,
+                    "w": 10,
+                    "o": 38.4,
+                    "inning": "Bihar Inning 1"
+                },
+                {
+                    "r": 90,
+                    "w": 1,
+                    "o": 27,
+                    "inning": "Chhattisgarh Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "bc66aa6e-fc56-4ea6-9300-ff8b486a3d82",
+            "name": "Assam vs Kerala, Elite Group B",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Assam opt to bowl",
+            "venue": "Barsapara Cricket Stadium, Guwahati",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Assam",
+                "Kerala"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Assam",
+                    "shortname": "ASM",
+                    "img": "https://g.cricapi.com/iapi/4-637897788303626448.png?w=48"
+                },
+                {
+                    "name": "Kerala",
+                    "shortname": "KER",
+                    "img": "https://g.cricapi.com/iapi/39-637897797224429950.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 141,
+                    "w": 1,
+                    "o": 37,
+                    "inning": "Kerala Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "7987c602-25ba-4aab-ac98-69ee77c2f10d",
+            "name": "Mumbai vs Andhra, Elite Group B",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Andhra opt to bowl",
+            "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Mumbai",
+                "Andhra"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Andhra",
+                    "shortname": "AP",
+                    "img": "https://g.cricapi.com/iapi/2-637897787068768481.png?w=48"
+                },
+                {
+                    "name": "Mumbai",
+                    "shortname": "MUM",
+                    "img": "https://g.cricapi.com/iapi/51-637897800490404099.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 281,
+                    "w": 6,
+                    "o": 88,
+                    "inning": "Mumbai Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "5e11ebd2-9110-4cf6-a908-c833bb314d00",
+            "name": "Jammu and Kashmir vs Delhi, Elite Group D",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Jammu and Kashmir opt to bowl",
+            "venue": "Hostel Ground JKCA, Jammu",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Jammu and Kashmir",
+                "Delhi"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Delhi",
+                    "shortname": "DEL",
+                    "img": "https://g.cricapi.com/iapi/19-637897791252425890.png?w=48"
+                },
+                {
+                    "name": "Jammu and Kashmir",
+                    "shortname": "JK",
+                    "img": "https://g.cricapi.com/iapi/35-637897795101008676.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 0,
+                    "w": 0,
+                    "o": 1,
+                    "inning": "Delhi Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "c989ea82-2e39-420f-b80b-cd210408af32",
+            "name": "Uttar Pradesh vs Bengal, Elite Group B",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Bengal lead by 35 runs",
+            "venue": "Green Park, Kanpur",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Uttar Pradesh",
+                "Bengal"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bengal",
+                    "shortname": "BEN",
+                    "img": "https://g.cricapi.com/iapi/12-637897789312826453.png?w=48"
+                },
+                {
+                    "name": "Uttar Pradesh",
+                    "shortname": "UP",
+                    "img": "https://g.cricapi.com/iapi/94-637897806676935322.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 60,
+                    "w": 10,
+                    "o": 20.5,
+                    "inning": "Uttar Pradesh Inning 1"
+                },
+                {
+                    "r": 95,
+                    "w": 5,
+                    "o": 28,
+                    "inning": "Bengal Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "8583516f-20eb-427e-b705-3d40b96dcfe8",
+            "name": "Maharashtra vs Jharkhand, Elite Group A",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Maharashtra opt to bowl",
+            "venue": "Maharashtra Cricket Association Stadium, Pune",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Maharashtra",
+                "Jharkhand"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Jharkhand",
+                    "shortname": "JHKD",
+                    "img": "https://g.cricapi.com/iapi/36-637897796049905291.png?w=48"
+                },
+                {
+                    "name": "Maharashtra",
+                    "shortname": "MAH",
+                    "img": "https://g.cricapi.com/iapi/45-637897797960178569.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 292,
+                    "w": 5,
+                    "o": 89,
+                    "inning": "Jharkhand Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "10d1d5b2-657b-4030-bd6b-bf2551359222",
+            "name": "Madhya Pradesh vs Odisha, Elite Group D",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Madhya Pradesh opt to bowl",
+            "venue": "Emerald High School Ground, Indore",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Madhya Pradesh",
+                "Odisha"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Madhya Pradesh",
+                    "shortname": "MP",
+                    "img": "https://g.cricapi.com/iapi/44-637897797618832180.png?w=48"
+                },
+                {
+                    "name": "Odisha",
+                    "shortname": "ODSA",
+                    "img": "https://g.cricapi.com/iapi/63-637897801546556330.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 208,
+                    "w": 6,
+                    "o": 85.3,
+                    "inning": "Odisha Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "3dfb5eca-3d96-4560-93e0-dcd87dc8c81b",
+            "name": "Mizoram vs Nagaland, Plate",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Mizoram trail by 205 runs",
+            "venue": "GS Patel Stadium, Nadiad",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Mizoram",
+                "Nagaland"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mizoram",
+                    "shortname": "MIZ",
+                    "img": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=48"
+                },
+                {
+                    "name": "Nagaland",
+                    "shortname": "NGL",
+                    "img": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 211,
+                    "w": 10,
+                    "o": 84.1,
+                    "inning": "Nagaland Inning 1"
+                },
+                {
+                    "r": 6,
+                    "w": 1,
+                    "o": 3,
+                    "inning": "Mizoram Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "b7e06a4b-6f29-4bc2-bd4f-af544ee865af",
+            "name": "Meghalaya vs Hyderabad, Plate",
+            "matchType": "test",
+            "status": "Day 1: Stumps - Hyderabad lead by 71 runs",
+            "venue": "Meghalaya Cricket Association Cricket Ground, Shillong",
+            "date": "2024-01-12",
+            "dateTimeGMT": "2024-01-12T04:00:00",
+            "teams": [
+                "Meghalaya",
+                "Hyderabad"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Hyderabad",
+                    "shortname": "HYD",
+                    "img": "https://g.cricapi.com/iapi/30-637897794525321433.png?w=48"
+                },
+                {
+                    "name": "Meghalaya",
+                    "shortname": "MGLY",
+                    "img": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 111,
+                    "w": 10,
+                    "o": 33.1,
+                    "inning": "Meghalaya Inning 1"
+                },
+                {
+                    "r": 182,
+                    "w": 4,
+                    "o": 47,
+                    "inning": "Hyderabad Inning 1"
+                }
+            ],
+            "series_id": "7f819b4b-9bc8-44d4-8722-c5808ad24a30",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 43,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 18,
+        "offsetRows": 0,
+        "totalRows": 32,
+        "queryTime": 36.8968,
+        "s": 0,
+        "cache": 0
+    }
+}

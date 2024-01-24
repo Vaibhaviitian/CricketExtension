@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Page</title>
+</head>
+<body>
+    <link rel="stylesheet" href="feedback.css">
+    <form>
+        <a style="margin-left: 145px;" href="index.html">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                    fill="currentColor" class="bi bi-skip-start" viewBox="0 0 16 16">
+                    <path
+                        d="M4 4a.5.5 0 0 1 1 0v3.248l6.267-3.636c.52-.302 1.233.043 1.233.696v7.384c0 .653-.713.998-1.233.696L5 8.752V12a.5.5 0 0 1-1 0zm7.5.633L5.696 8l5.804 3.367z" />
+                </svg>
+        </a>
+        <label for="websiteRating">How's the website? (Out of 10):</label>
+        <input type="number" id="websiteRating" name="websiteRating" min="0" max="10" required>
+
+        <label>Is the website free or paid?</label>
+        <input type="radio" id="free" name="payment" value="free" required>
+        <label for="free">Free</label>
+
+        <input type="radio" id="paid" name="payment" value="paid" required>
+        <label for="paid">Paid</label>
+
+        <label for="suggestions">Any suggestions:</label>
+        <textarea id="suggestions" name="suggestions"></textarea>
+
+        <label for="feedback">Valuable Feedback:</label>
+        <textarea id="feedback" name="feedback"></textarea>
+
+        <label for="overallSatisfaction">Overall Satisfaction:</label>
+        <input type="number" id="overallSatisfaction" name="overallSatisfaction" min="0" max="10" required>
+
+        <button type="submit">Submit Feedback</button>
+    </form>
+</body>
+</html>
